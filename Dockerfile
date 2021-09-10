@@ -1,5 +1,5 @@
-# Use Fedora 33 as base image
-FROM registry.fedoraproject.org/fedora-minimal:33
+# Use Fedora 34 as base image
+FROM registry.fedoraproject.org/fedora-minimal:34
 LABEL maintainer="Preston Davis pdavis@pebcac.org"
 
 # Install httpd
